@@ -1,0 +1,14 @@
+[
+    {
+        "RECURSO": "Material de escritório",
+        "QUANTIDADE_TOTAL": 50.0
+    },
+    {
+        "RECURSO": "Equipamento de computador",
+        "QUANTIDADE_TOTAL": 15.0
+    },
+    {
+        "RECURSO": "Equipamentos de TI",
+        "QUANTIDADE_TOTAL": 10.0
+    }
+]

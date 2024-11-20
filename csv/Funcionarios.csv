@@ -1,0 +1,11 @@
+id_funcionario,nome_funcionario,id_cargo,id_departamento
+1,João Silva,1,1
+2,Ana Albuquerque,2,2
+3,Carlos Pereira,3,1
+4,Ana Lima,4,3
+5,Rafael Santos,2,4
+6,Larissa Oliveira,3,5
+7,Felipe Almeida,1,1
+8,Sofia Costa,6,2
+9,Gustavo Martins,2,3
+10,Julia Ferreira,6,5
